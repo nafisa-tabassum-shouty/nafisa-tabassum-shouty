@@ -14,3 +14,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisa-tabassum-shouty&layout=compact&theme=tokyonight" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nafisa-tabassum-shouty&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafisa-tabassum-shouty&theme=tokyonight" height="170"/>
+</p>
