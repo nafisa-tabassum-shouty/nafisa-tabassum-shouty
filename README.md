@@ -20,19 +20,27 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nafisa-tabassum-shouty&show_icons=true&theme=tokyonight"
-    height="170"
-  />
+<table align="center">
+  <tr>
+    <th align="center">📈 GitHub Statistics</th>
+    <th align="center">💻 Most Used Languages</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=nafisa-tabassum-shouty&show_icons=true&theme=tokyonight"
+        height="170"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisa-tabassum-shouty&layout=compact&theme=tokyonight"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisa-tabassum-shouty&layout=compact&theme=tokyonight"
-    height="170"
-  />
-</p>
 
 
 ## 📈 Most Used Languages
