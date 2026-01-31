@@ -22,7 +22,6 @@
 
 <table align="center">
   <tr>
-
     <th align="center">💻 Most Used Languages</th>
   </tr>
   <tr>
