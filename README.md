@@ -22,7 +22,7 @@
 
 <table align="center">
   <tr>
-    <th align="center">📈 GitHub Statistics</th>
+
     <th align="center">💻 Most Used Languages</th>
   </tr>
   <tr>
