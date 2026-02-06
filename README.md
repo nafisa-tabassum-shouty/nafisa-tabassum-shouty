@@ -4,13 +4,6 @@
 
 <p align="left">
 </p>
-## 👩‍💻 About Me
-
-- 🔭 Working on **Web Development, Android Apps & AI-based systems**
-- 🌱 Currently learning **MERN Stack, Machine Learning & Deep Learning**
-- 🧠 Interested in **NLP, Cyberbullying Detection & Sentiment Analysis**
-- 🛠️ Experience with **Full-Stack, Mobile & Data-Driven Applications**
-- ⚡ Passionate about combining **software engineering with research**
 
 ---
 
